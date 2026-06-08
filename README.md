@@ -1,11 +1,11 @@
 <h1 align="center">Talha Khan</h1>
 
 <p align="center">
-  <strong>Full Stack Web Developer &nbsp;|&nbsp; MERN Stack &nbsp;|&nbsp; AI-Augmented Engineer</strong>
+  <strong>Full Stack Web Developer &nbsp;|&nbsp; MERN Stack &nbsp;</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/talhaakhann">LinkedIn</a> &nbsp;&middot;&nbsp;
+  <a href="https://www.linkedin.com/in/talhaakhann45">LinkedIn</a> &nbsp;&middot;&nbsp;
   <a href="https://www.x.com/talhaakhann1">X / Twitter</a> &nbsp;&middot;&nbsp;
   <a href="mailto:talhakhan45.dev@gmail.com">Email</a>
 </p>
