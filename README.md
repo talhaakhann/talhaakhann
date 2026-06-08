@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://talhaakhann.com">talhaakhann.com</a> &nbsp;&middot;&nbsp;
   <a href="https://www.linkedin.com/in/talhaakhann">LinkedIn</a> &nbsp;&middot;&nbsp;
   <a href="https://www.x.com/talhaakhann1">X / Twitter</a> &nbsp;&middot;&nbsp;
   <a href="mailto:talhakhan45.dev@gmail.com">Email</a>
