@@ -77,7 +77,7 @@ Hello! I'm a dedicated Software Engineering student with a strong focus on full-
 ---
 
 <p align="center">
-  <a href="https://talhaakhann.com">Portfolio</a> &nbsp;&middot;&nbsp;
+  <a href="https://www.x.com/talhaakhann1">X / Twitter</a> &nbsp;&middot;&nbsp;
   <a href="https://www.linkedin.com/in/talhaakhann">LinkedIn</a> &nbsp;&middot;&nbsp;
   <a href="mailto:talhakhan45.dev@gmail.com">talhakhan45.dev@gmail.com</a>
 </p>
