@@ -19,7 +19,7 @@
 
 ### 🚀 Passionate Software Engineering Student | Full Stack Developer
 
-Hello! I'm a dedicated Software Engineering student with a strong focus on full-stack web development. My core expertise lies in building modern, scalable applications using the **MERN stack** — MongoDB, React.js, Node.js, and Express.js — alongside a solid foundation in **C++**, **Java**, **Data Structures & Algorithms (DSA)**, and **Object-Oriented Programming (OOP)**.
+Hello! I'm a dedicated Software Engineering student with a strong focus on full-stack web development. My core expertise lies in building modern, scalable applications using the **MERN stack** — MongoDB, React.js, Node.js, and Express.js — alongside a solid foundation in **C++**, **Data Structures & Algorithms (DSA)**, and **Object-Oriented Programming (OOP)**.
 
 🎓 Currently pursuing a **BS in Software Engineering**,  I have successfully completed my 4th semester. My academic journey and project experiences have equipped me with a deep understanding of software development methodologies and UML diagrams.
 
