@@ -69,9 +69,7 @@ Hello! I'm a dedicated Software Engineering student with a strong focus on full-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaakhann&stroke=ffffff&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talhaakhann&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
+
 
 ---
 
