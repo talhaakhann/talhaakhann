@@ -36,7 +36,7 @@ Hello! I'm a dedicated Software Engineering student with a strong focus on full-
 <table>
   <tr>
     <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=cpp,js" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp,js,ts" /></td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
